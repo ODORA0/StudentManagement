@@ -10,11 +10,12 @@
 			<div  style="text-align: center;">
 				<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post" enctype="multipart/form-data" >
 				Choose class: <select name="class" class="btn btn-info" style="margin-right: 30px;">					<option>Select</option>
-									<option>1st</option>
-									<option>2nd</option>
-									<option>3rd</option>
-									<option>4th</option>
-									<option>5th</option>
+									<option>S1</option>
+									<option>S2</option>
+									<option>S3</option>
+									<option>S4</option>
+									<option>S5</option>
+									<option>S6</option>
 								</select>
 				<input type="submit" name="search" value="SEARCH" class="btn btn-success">
 			</form>
