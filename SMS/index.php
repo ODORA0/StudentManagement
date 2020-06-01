@@ -9,7 +9,7 @@
                 <div class="row">
                     <div class="col-md-12 jumbotron">
                             <h2 style="text-align: center;">
-                                WELCOME TO MULTITECH HIGH SHCOOL
+                                WELCOME TO ST. PETER'S SENIOR SECONDARY SHCOOL
                                 <span style="float: right;"><a href="login.php" class="btn btn-info btn-lg">Admin Login</a></span>
                             </h2>
                     </div>
@@ -25,11 +25,12 @@
                 <input type="text" name="roll" placeholder="Enter Roll Number" style="width: 240px;height: 35px;"><span>OR/AND<span>
                  <select name="class" class="btn btn-info" >
                                     <option>SELECT class</option>
-                                    <option>1st</option>
-                                    <option>2nd</option>
-                                    <option>3rd</option>
-                                    <option>4th</option>
-                                    <option>5th</option>
+                                    <option>S1</option>
+                                    <option>S2</option>
+                                    <option>S3</option>
+                                    <option>S4</option>
+                                    <option>S5</option>
+                                    <option>S6</option>
                                 </select>
                   <input type="submit" name="show" value="SHOW INFO" class="btn btn-success text-center" style="margin-left: 30px;" >  
                             </form>
