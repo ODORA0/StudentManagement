@@ -42,10 +42,10 @@
 <table class="table table-striped table-bordered table-responsive text-center">
     <tr >
         <th class="text-center">Roll No.</th>
-        <th class="text-center">class</th>
+        <th class="text-center">Class</th>
         <th class="text-center">Full Name</th>
-        <th class="text-center">City</th>
-        <th class="text-center">parent phone No.</th>
+        <th class="text-center">City/Town</th>
+        <th class="text-center">Parent phone No.</th>
         <th class="text-center">Profile Pic</th>
     </tr>
 <?php 
